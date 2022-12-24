@@ -1,5 +1,5 @@
-import { Footer, Navbar } from "../components";
-import styles from "../styles";
+import { Footer, Navbar } from '../components';
+import styles from '../styles';
 import {
   About,
   Explore,
@@ -9,7 +9,7 @@ import {
   Insights,
   WhatsNew,
   World,
-} from "../sections";
+} from '../sections';
 
 const Page = () => (
   <div className="bg-purple-700 overflow-hidden ">
